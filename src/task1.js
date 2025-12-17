@@ -1,6 +1,11 @@
 const arr = []
 
 // Escribe tu codigo por debajo de esta linea
+for (let index = 1; index <= 20; index++) {
+  arr.push(index);
+  
+}
+console.log(arr);
 
 
 
